@@ -1,6 +1,7 @@
 # Idea_Bomb
 This is the social media app where users can post about ideas and have others review them with comments and likes. 
-![mockup image]Idea_bomb_mockup.jpg
+![Idea_bomb_mockup](https://user-images.githubusercontent.com/110693826/207419030-6fa13710-8cef-43c1-9ca0-1aba38a7b5e0.jpg)
+
 <li>As a user I want to be able to post ideas.</li>
 <li>I want to be able to comment and like others ideas</li>
 <li>I want to be able to edit the ideas ive posted.</li>
