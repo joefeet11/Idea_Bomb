@@ -10,7 +10,7 @@ This is the social media app where users can post about ideas and have others re
 <li>I want to be able to view someones page with all the ideas they've posted.</li>
 <li>I want to be able to follow another user and have them populate in a page with just ideas from those i've followed</li>
 
-| `Idea` | `likes' | `comments` | `User` | `follower` |
+| `Idea` | `likes` | `comments` | `User` | `follower` |
 | ------ | ------- | ---------- | ------ | ---------- |
 | id     | id      | id         | id     | id         |
 | details | Idea_id | detail | Username |leader_id|
